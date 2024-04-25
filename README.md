@@ -45,15 +45,10 @@
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)&nbsp;
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
-
 #### 🎮 Games:
 
 ![PS](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
 
 #### 🎶 Sound:
 
