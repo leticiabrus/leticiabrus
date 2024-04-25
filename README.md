@@ -46,7 +46,7 @@
 
 ![SPOTIFY](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/LuigiGf/LuigiGf/e8af79b9642dddbe440a79e9ed50ae0a28b94593/github-contribution-grid-snake.svg)
 
 &nbsp;
 &nbsp;
