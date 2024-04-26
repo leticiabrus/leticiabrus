@@ -6,6 +6,7 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leticiabrus&theme=merko&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=leticiabrus&show_icons=true&theme=merko&layout=compact" />
  </div>
+
  
  &nbsp;
  &nbsp;
@@ -50,6 +51,9 @@
 
 &nbsp;
 &nbsp;
+
+<img width=7% align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{leticiabrus}1212%2Fhit-counter" />
+
 
 ## Contacts:
 
