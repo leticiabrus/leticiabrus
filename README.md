@@ -52,7 +52,7 @@
 &nbsp;
 &nbsp;
 
-<img width=7% align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{leticiabrus}1212%2Fhit-counter" />
+<img width=10% align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{leticiabrus}1212%2Fhit-counter" />
 
 
 ## Contacts:
