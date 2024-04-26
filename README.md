@@ -3,12 +3,9 @@
 <p align="center">Eu sou uma Product Owner e IT Business Analyst apaixonada por enfrentar desafios e impulsionar soluções através da tecnologia. Meu foco é equilibrar habilidades técnicas com visão gerencial, o que me permite engajar equipes, ser ponto focal em projetos e analisar continuamente o desempenho de softwares. Minha expertise inclui a integração dos princípios do desenvolvimento ágil para garantir entregas eficientes e alinhadas com as necessidades do negócio..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leticiabrus&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=leticiabrus&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leticiabrus&theme=dark&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=leticiabrus&show_icons=true&theme=dark&layout=compact" />
  </div>
-
-<img width=40% align="center" src=" https://github-readme-activity-graph.vercel.app/graph?leticiabrus={leticiabrus}&theme={theme_radical}" />
-
  
  &nbsp;
  &nbsp;
