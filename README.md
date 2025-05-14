@@ -1,6 +1,6 @@
 ### Hello World👋
 
-<p align="center">Eu sou uma Product Owner e IT Business Analyst apaixonada por enfrentar desafios e impulsionar soluções através da tecnologia. Meu foco é equilibrar habilidades técnicas com visão gerencial, o que me permite engajar equipes, ser ponto focal em projetos e analisar continuamente o desempenho de softwares. Minha expertise inclui a integração dos princípios do desenvolvimento ágil para garantir entregas eficientes e alinhadas com as necessidades do negócio..</p>&nbsp;
+<p align="center">Eu sou uma Product Owner apaixonada por enfrentar desafios e impulsionar soluções através da tecnologia. Meu foco é equilibrar habilidades técnicas com visão gerencial, o que me permite engajar equipes, ser ponto focal em projetos e analisar continuamente o desempenho de softwares. Minha expertise inclui a integração dos princípios do desenvolvimento ágil para garantir entregas eficientes e alinhadas com as necessidades do negócio..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leticiabrus&theme=merko&mode=weekly" />
